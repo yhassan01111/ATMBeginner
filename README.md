@@ -1,8 +1,8 @@
 # 🏦 ATMBeginner
 
-A practical Python script I put together to practice the core basics of software logic by building a secure, interactive ATM simulator. 
+A practical Python script I put together to help beginners practice the core basics of software logic by building a secure, interactive ATM simulator. 
 
-Instead of just printing static text to the screen, I wanted to create an app that handles real banking logic, keeps track of user data across multiple transactions, and—most importantly—won't completely explode if a user accidentally types a typo.
+Instead of just printing static text to the screen, I wanted to create an app that handles real banking logic, keeps track of user data across multiple transactions, and most importantly, won't completely explode if a user accidentally types a typo.
 
 ---
 
