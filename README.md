@@ -15,3 +15,12 @@ Instead of just printing static text, I wanted to build something interactive th
 5. Error Prevention (try / except): My favorite part. If the program asks for a number and you type letters like "abc", this catches the mistake, handles it nicely, and keeps the program running smoothly instead of throwing a massive red error screen.
 
 6. f-strings: Used to easily inject variable data (like the live balance) straight into text outputs.
+
+# 👤 Author
+Created by: [ Youssef Hassan Abdalla ]
+
+Project Name: Clickaya Initiative / ATM Beginner Project
+
+Find me on: [ https://github.com/v27whh ]
+
+"Built to make learning Python simple, secure, and interactive."
